@@ -1,11 +1,11 @@
 
   # Parking Reservation Website
 
-  This is a code bundle for Parking Reservation Website. The original project is available at https://www.figma.com/design/sEq88PdFDHeYbgpIUJMeo2/Parking-Reservation-Website.
+2023112509 박준서 주차장 예약 홈페이지
 
   ## Running the code
 
-  Run `npm i` to install the dependencies.
-
-  Run `npm run dev` to start the development server.
+npm install 
+npm run dev
+순서로 실행하면 된다.
   
